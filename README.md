@@ -1,6 +1,6 @@
- ##Md Zeeshan Alam 
-
-## B.Tech CSE Student at Lovely Professional University
+## Md Zeeshan Alam 
+B.Tech CSE 
+Lovely Professional University
 
 ## Currently Learning
 - HTML
